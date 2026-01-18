@@ -1,5 +1,5 @@
 # Beljar Markdown
-** ini buat teks tebal **
+**ini buat teks tebal**
 
 1. Merkurius
 2. Venus
@@ -13,7 +13,7 @@
 
 ![Tata Surya Image](https://th.bing.com/th/id/OIP.BrgoKZQBzWMcBE9yKiP_8QHaEL?w=309&h=180&c=7&r=0&o=7&pid=1.7&rm=3)
 
-** Buat Table **
+**Buat Table**
 
 | Planet | Penghuni | Jumlah Satelit |
 |--------|----------|----------------|
